@@ -29,7 +29,7 @@ namespace LinkLoader
 
             try
             {
-                var form = new RevitServerBrowser.RevitServerBrowserForm(commandData);
+                var form = new RevitServerBrowser.RevitServerBrowserNativeForm(commandData);
                 Logger.SetLogPath(Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), "Temp", "i-savelev", "LinkLoader.log"));
                 Logger.Init(hostName: "Autodesk Revit",
                     hostVersionNumber: commandData.Application.Application.VersionNumber,

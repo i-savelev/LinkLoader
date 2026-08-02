@@ -1,6 +1,7 @@
 # LinkLoader
 
-<img width="2800" height="2000" alt="изображение" src="https://github.com/user-attachments/assets/b66903c3-247f-49cb-9eee-37c38ac0bef1" />
+<img width="2800" height="2000" alt="изображение" src="https://github.com/user-attachments/assets/b1c4a461-3779-4e56-bd41-9e1013a588a1" />
+
 
 
 Плагин для пакетной подгрузки связей из Revit Server в открытый хост-документ с гибкой настройкой через Excel.

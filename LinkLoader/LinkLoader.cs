@@ -21,7 +21,7 @@ namespace LinkLoader
         public static string IS_TAB_NAME => "ISTools";
         public static string IS_NAME => "Пакетная подгрузка связей";
         public static string IS_IMAGE => "LinkLoader.Resources.LinkLoader.png";
-        public static string IS_DESCRIPTION => "Автор: https://github.com/i-savelev\r\nКоманда загружает указанные модели из ревит-сервера как связи. Для распределения по рабочим наборам используется конфигурация из excel.";
+        public static string IS_DESCRIPTION => "Автор: https://github.com/i-savelev\r\nРепозиторий: https://github.com/i-savelev/LinkLoader\r\nКоманда загружает указанные модели из ревит-сервера как связи. Для распределения по рабочим наборам используется конфигурация из excel.";
 
         public Result Execute(ExternalCommandData commandData, ref string message, ElementSet elements)
         {
